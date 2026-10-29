@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" alt="Banner" width="100%" />
+<img src="banner-v2.jpg" alt="Banner" width="100%" />
 
 # 👋 Hola, soy `daffiercain`
 
