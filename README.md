@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ecUJsFIHzN707UyilOQAVQLBuokAHfe3x4fIg7-PSs1bMh_a1eVUZez4&s=10)
+<img src="banner.jpg" alt="Banner" width="100%" />
 
 # 👋 Hola, soy `daffiercain`
 
