@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2019/10/qiyana2.jpg?fit=1215%2C717&ssl=1)
+![Banner]([https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2019/10/qiyana2.jpg?fit=1215%2C717&ssl=1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ecUJsFIHzN707UyilOQAVQLBuokAHfe3x4fIg7-PSs1bMh_a1eVUZez4&s=10))
 
 # 👋 Hola, soy Jerónimo · `daffiercain`
 
