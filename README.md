@@ -2,9 +2,9 @@
 
 ![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ecUJsFIHzN707UyilOQAVQLBuokAHfe3x4fIg7-PSs1bMh_a1eVUZez4&s=10)
 
-# 👋 Hola, soy Jerónimo · `daffiercain`
+# 👋 Hola, soy `daffiercain`
 
-**Estudiante de Desarrollo de Software · Full Stack en formación · Antioquia, Colombia 🇨🇴**
+**Estudiante de Desarrollo de Software · Full Stack en formación**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Construyendo+apps+con+React+%2B+Node;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Buscando+mi+primera+pr%C3%A1ctica+%F0%9F%9A%80)
 
