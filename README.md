@@ -56,13 +56,3 @@
 ![Streak](https://streak-stats.demolab.com?user=salinasjeronimo579-netizen&theme=tokyonight&hide_border=true)
 
 </div>
-
-## 📫 Hablemos
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salinasjeronimo579-netizen)
-
-*"Hecho con ☕ y mucho `console.log()`"*
-
-</div>
