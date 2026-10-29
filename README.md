@@ -44,9 +44,7 @@
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
 | 🏥 **MediPass** | Sistema web de historias clínicas inmutables y prescripciones con código QR | React · Node/Express (TS) · PostgreSQL |
-| 📚 **Booker** | Sistema de gestión de bibliotecas | Full stack |
-| 🌱 **AgroScan** | Idea de app móvil con IA para diagnosticar enfermedades en cultivos colombianos | Concepto |
-| 📦 [**entrega-final-react-node**](https://github.com/salinasjeronimo579-netizen/entrega-final-react-node) | Entrega final del módulo de React + Node | React · Node |
+| 📚 [**entrega-final-react-node**](https://github.com/salinasjeronimo579-netizen/entrega-final-react-node) | Sistema de gestión de bibliotecas (entrega final del módulo de React + Node) | React · Node |
 
 ## 📊 Estadísticas
 
