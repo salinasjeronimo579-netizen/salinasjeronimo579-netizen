@@ -6,7 +6,7 @@
 
 **Estudiante de Desarrollo de Software · Full Stack en formación**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Construyendo+apps+con+React+%2B+Node;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Buscando+mi+primera+pr%C3%A1ctica+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Construyendo+apps+con+React+%2B+Node;Aprendiendo+PHP+%F0%9F%90%98;Aprendiendo+Java+%E2%98%95;Aprendiendo+Python+%F0%9F%90%8D;Aprendiendo+C%23+y+SQL+%F0%9F%92%BE;Buscando+mi+primera+pr%C3%A1ctica+%F0%9F%9A%80)
 
 ![Profile views](https://komarev.com/ghpvc/?username=salinasjeronimo579-netizen&color=22d3ee&style=for-the-badge&label=VISITAS)
 ![Followers](https://img.shields.io/github/followers/salinasjeronimo579-netizen?style=for-the-badge&color=a855f7&logo=github)
